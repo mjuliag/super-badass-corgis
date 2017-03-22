@@ -11,4 +11,10 @@ var kittens = [
     "imageUrl": "http://cdn1-www.dogtime.com/assets/uploads/gallery/cardigan-welsh-corgi/olderderp-6_680-453.jpg",
     "imageAlt": "Little Low-Light Monsters (D800 @ ISO 25,600)"
   }
+    {
+    "url": "http://www.flickr.com/photos/seanmolin/7028040701/",
+    "title": "Little Low-Light Monsters (D800 @ ISO 25,600) by Sean Molin Photography, on Flickr",
+    "imageUrl": "https://chuckanddons.com/wp-content/uploads/2012/08/Queens-Corgis.png",
+    "imageAlt": "Little Low-Light Monsters (D800 @ ISO 25,600)"
+  }
 ];
